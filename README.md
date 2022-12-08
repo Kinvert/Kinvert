@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinvert&theme=redical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinvert&theme=dark)
 
 <!--
 **Kinvert/Kinvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

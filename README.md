@@ -1,4 +1,8 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinvert&theme=merko)
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kinvert&theme=dark&title_color=26a7ea%=&icon_color=ca591b&show_icons=true&border_color=283b4c)
+-->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kinvert&repo=resume&theme=dark&title_color=26a7ea%=&icon_color=ca591b&show_icons=true&border_color=283b4c)](https://github.com/Kinvert/resume)
 
 <!--
 **Kinvert/Kinvert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kinvert&repo=Machine-Learning&theme=dark&title_color=26a7ea%=&icon_color=ca591b&show_icons=true&border_color=283b4c)](https://github.com/Kinvert/Machine-Learning)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kinvert&repo=CUDA-Stuff&theme=dark&title_color=26a7ea%=&icon_color=ca591b&show_icons=true&border_color=283b4c)](https://github.com/Kinvert/CUDA-Stuff)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kinvert&repo=resume&theme=dark&title_color=26a7ea%=&icon_color=ca591b&show_icons=true&border_color=283b4c)](https://github.com/Kinvert/resume)
 
 <!--
